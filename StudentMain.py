@@ -2,7 +2,7 @@
 
 StdList = []
 
-print("=====Welcome To Student Managemant System=====")
+print("=====Welcome To Student Management System=====")
 
 while True:
 
@@ -10,7 +10,7 @@ while True:
   print("2. Viwe All Student ")
   print("3. Upadet Student Information ")
   print("4. Delete Student Recorde ")
-  print("5. Exite Student Managemant System(SMS) ")
+  print("5. Exite Student management System(SMS) ")
 
   Choice = int(input("Enter The Choice :"))
 
