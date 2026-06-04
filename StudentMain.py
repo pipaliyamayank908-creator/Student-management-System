@@ -90,7 +90,7 @@ while True:
         s["LastStander"] = new_LastStander
         
 
-        print("Student Information Updated SuccessFully!")
+        print("Student Information Updated SuccessFully!!!")
         found = True
         break
 
@@ -101,7 +101,7 @@ while True:
 
 
   elif(Choice == 4):
-    id = int(input("Enter id to delete : "))
+    id = int(input("Enter Student id to delete : "))
 
     found = False
 
